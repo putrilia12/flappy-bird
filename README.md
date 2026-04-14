@@ -1,7 +1,6 @@
-# 👻 Flappy Ghost
+# 👻 Flappy Bird
 
-A simple **Flappy Bird-style game built with Pygame**.  
-Control the ghost, avoid obstacles, and survive as long as possible to get the highest score.
+A simple **Flappy Bird-style game built with Pygame**. Control the ghost, avoid obstacles, and survive as long as possible to get the highest score.
 
 ---
 
