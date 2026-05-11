@@ -15,7 +15,7 @@ A simple **Flappy Bird-style game built with Pygame**. Control the ghost, avoid 
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 
 ### 🟢 Gameplay
 ![Gameplay](documentation/Screenshot%202026-04-08%20165353.png)
